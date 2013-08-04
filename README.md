@@ -6,4 +6,4 @@ The new modern UI / modern Web Browser.Created for everyone including for the na
 About RafflesiaWeb
 ==================
 
-For more info you can logon http://myhyazid.github.io/rafflesiaweb
+For more info you can logon http://myhyazid.github.io/RafflesiaWeb
